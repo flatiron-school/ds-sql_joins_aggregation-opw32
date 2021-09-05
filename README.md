@@ -1,3 +1,3 @@
-# ds-sql2
+# ds-sql_joins_and_aggregation
 
-This repository describes more SQL techniques for data science. It was created with love by the Flatiron School.
+This repository describes JOINs and aggregation techniques in SQL. It was created with love by the Flatiron School.
